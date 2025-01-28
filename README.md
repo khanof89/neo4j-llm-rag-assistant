@@ -8,7 +8,11 @@ Transform natural language queries into Cypher using LLMs and build intelligent 
 
 ## 🎯 Overview
 
-This project demonstrates how to build an intelligent query system combining Large Language Models (LLM), Retrieval-Augmented Generation (RAG), and Knowledge Graphs using Neo4j. Perfect for developers and data scientists looking to build natural language interfaces for graph databases.
+This project demonstrates how to build an intelligent query system combining Large Language Models (LLM), Retrieval-Augmented Generation (RAG), an
+<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
+d Knowledge Graphs using Neo4j. Perfect for developers and data scientists looking to build natural language interfaces for graph databases.
+
+![](/demo.gif)
 
 ### 🌟 Key Features
 
