@@ -78,7 +78,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/neo4j-llm-rag-assistant&type=Date)](https://star-history.com/#yourusername/neo4j-llm-rag-assistant&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=khanof89/neo4j-llm-rag-assistant&type=Date)](https://star-history.com/#khano8f9/neo4j-llm-rag-assistant&Date)
 
 ## 🔗 Related Projects
 
