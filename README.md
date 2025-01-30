@@ -1,4 +1,4 @@
-# 🚀 Neo4j LLM RAG Assistant
+# 🚀 Neo4j LLM RAG Assistant with streamlit
 
 Transform natural language queries into Cypher using LLMs and build intelligent knowledge graph applications.
 
